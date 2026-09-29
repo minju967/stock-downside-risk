@@ -1,0 +1,16 @@
+sqlalchemy
+pymysql
+python-dotenv
+pandas
+numpy
+pyarrow
+nbformat
+nbclient
+ipykernel
+matplotlib
+scipy
+markdown
+lightgbm
+scikit-learn
+streamlit
+requests
